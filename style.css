@@ -1,15 +1,45 @@
 body
 {
     background-color:#FFCC66;
+    background-image:url('20210517_163133.jpg')
 }
 h1
 {
-    color:#0000FF;
     text-align:center;
-    padding:20px;
-    background-image:
+    color:#00008B;
+    animation-name:jos;
+    animation-duration:4s
 }
+@keyframes jos
+{
+  0%   {color: red;}
+  25%  {color: orange;}
+  50%  {color: blue;}
+  100% {color: green;}
+}
+
 marquee
 {
-    color:red
+    color:red;
+    animation-name:love;
+    animation-duration:9s
+}
+button
+{
+    align="center";
+}
+@keyframes love
+{
+  0%   {color: red;}
+  25%  {color: orange;}
+  50%  {color: blue;}
+  100% {color: green;}
+}
+aside
+{
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  background-color: lightgray;
 }
