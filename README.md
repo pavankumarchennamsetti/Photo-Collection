@@ -1,1 +1,1 @@
-# Photo-Collection-Joshna
+# Photo-Collection
