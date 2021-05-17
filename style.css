@@ -3,6 +3,10 @@ body
     background-color:#FFCC66;
     background-image:url('20210517_163133.jpg')
 }
+label
+{
+    font-size:150%
+}
 h1
 {
     text-align:center;
@@ -26,7 +30,8 @@ marquee
 }
 button
 {
-    align="center";
+    height:"50";
+    align="center"
 }
 @keyframes love
 {
@@ -37,7 +42,7 @@ button
 }
 aside
 {
-  width: 30%;
+  width: 50%;
   padding-left: 15px;
   margin-left: 15px;
   float: right;
