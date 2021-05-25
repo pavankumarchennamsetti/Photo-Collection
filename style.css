@@ -54,6 +54,7 @@ aside
 }
 footer
 {
-    color:brown;
-    align:center
+    color:white;
+    text-align:center;
+    background-color:gray
 }
