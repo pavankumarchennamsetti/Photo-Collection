@@ -2,7 +2,8 @@ body
 {
     background-color:#FFCC66;
     background-image:url('20210517_163133.jpg');
-    background-image:"size:100%"
+    background-image:"size:150%";
+    background-repeat:no-repeat
 }
 label
 {
